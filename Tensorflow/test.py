@@ -6,15 +6,15 @@ from pathlib import Path
 
 # Define base directory
 BASE_DIR = Path(__file__).resolve().parent.parent
-DATA_PATH = BASE_DIR / "Dataset" / "NY-House-Dataset.csv"
+DATA_PATH = BASE_DIR / "Dataset" / "House-Recommendation-Properties.csv"
 PREPROCESSOR_PATH = BASE_DIR / "Tensorflow" / "preprocessor.pkl"
 MODEL_PATH = BASE_DIR / "Tensorflow" / "tensorflow_model"
 
 # Load dataset
 df = pd.read_csv(DATA_PATH)
 
-numeric_features = ['PRICE', 'BEDS', 'BATH', 'PROPERTYSQFT']
-categorical_features = ['TYPE', 'ADDRESS']
+numeric_features = ['PRICE', 'BEDROOMS', 'BATHROOMS', 'DIMENSIONS']
+categorical_features = ['REALTOR', 'PROPERTYNAME', 'AVAILABILITY', 'TYPE', 'DESCRIPTION', 'ADDRESS', 'IMAGE']
 df = df[numeric_features + categorical_features].dropna()
 
 # Load preprocessor

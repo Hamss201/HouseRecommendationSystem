@@ -13,7 +13,7 @@ app = FastAPI()
 BASE_DIR = Path(__file__).resolve().parent
 PREPROCESSOR_PATH = os.getenv("PREPROCESSOR_PATH", "Tensorflow/preprocessor.pkl")
 MODEL_PATH = os.getenv("MODEL_PATH", "Tensorflow/tensorflow_model")
-DATA_PATH = os.getenv("DATA_PATH", "Dataset/NY-House-Dataset.csv")
+DATA_PATH = os.getenv("DATA_PATH", "Dataset/House-Recommendation-Properties.csv")
 
 
 # Load components
@@ -22,8 +22,8 @@ model = tf.saved_model.load(str(MODEL_PATH))
 df = pd.read_csv(DATA_PATH)
 
 # Define training columns
-numeric_features = ['PRICE', 'BEDS', 'BATH', 'PROPERTYSQFT']
-categorical_features = ['TYPE', 'ADDRESS']
+numeric_features = ['PRICE', 'BEDROOMS', 'BATHROOMS', 'DIMENSIONS']
+categorical_features = ['REALTOR', 'PROPERTYNAME', 'AVAILABILITY', 'TYPE', 'DESCRIPTION', 'ADDRESS', 'IMAGE']
 df = df[numeric_features + categorical_features].dropna()
 
 # Normalize dataset embeddings for comparison
