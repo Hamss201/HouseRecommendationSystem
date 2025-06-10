@@ -5,14 +5,15 @@ import numpy as np
 import tensorflow as tf
 import joblib
 from pathlib import Path
+import os
 
 app = FastAPI()
 
 # Base directory (modify if needed)
 BASE_DIR = Path(__file__).resolve().parent
-DATA_PATH = BASE_DIR / "Dataset" / "NY-House-Dataset.csv"
-PREPROCESSOR_PATH = BASE_DIR / "Tensorflow" / "preprocessor.pkl"
-MODEL_PATH = BASE_DIR / "Tensorflow" / "tensorflow_model"
+PREPROCESSOR_PATH = os.getenv("PREPROCESSOR_PATH", "Tensorflow/preprocessor.pkl")
+MODEL_PATH = os.getenv("MODEL_PATH", "Tensorflow/tensorflow_model")
+DATA_PATH = os.getenv("DATA_PATH", "Dataset/NY-House-Dataset.csv")
 
 
 # Load components
