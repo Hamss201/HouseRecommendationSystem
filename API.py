@@ -33,11 +33,16 @@ norm_embeddings = processed_df / np.linalg.norm(processed_df, axis=1, keepdims=T
 # Define request schema
 class Listing(BaseModel):
     PRICE: float
-    BEDS: int
-    BATH: int
-    PROPERTYSQFT: float
+    BEDROOMS: int
+    BATHROOMS: int
+    DIMENSIONS: float
+    REALTOR: str
+    PROPERTYNAME: str
+    AVAILABILITY: str
     TYPE: str
+    DESCRIPTION: str
     ADDRESS: str
+    IMAGE: str
 
 @app.post("/recommend/")
 def recommend_property(listing: Listing, top_k: int = 5):
