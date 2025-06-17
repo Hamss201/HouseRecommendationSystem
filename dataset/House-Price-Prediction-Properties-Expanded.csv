@@ -1,0 +1,124 @@
+REALTOR,PROPERTYNAME,DESCRIPTION,AVAILABILITY,TYPE,PRICE,BEDROOMS,BATHROOMS,DIMENSIONS,ADDRESS,DATE
+Ahmed,Palm Heights,"A stylish and modern 2-bedroom apartment located in the heart of the city. This property features a spacious living area, open-plan kitchen with contemporary finishes, two full bathrooms, and a private balcony with skyline views. Ideal for professionals or small families.",Sale,Apartment,48000,2,2,1200,"Al Khuwair, Muscat",1/23/2025
+Salma,Sapphire Villa,"A luxurious 4-bedroom villa with a landscaped garden, large terrace, and covered parking. Includes a spacious living room, formal dining area, modern kitchen with island, and ensuite master bedroom. Perfect for families seeking comfort and space in a prestigious neighborhood.",Rent,House,840,4,3,2500,"Shatti Al Qurum, Muscat",10/18/2024
+Yousuf,Oasis Residency,"A premium 3-bedroom apartment within a gated community offering amenities such as a swimming pool, gym, and concierge services. Features a bright interior, fully fitted kitchen, two bathrooms, and a secure underground parking bay. Walking distance to shops and the beach.",Sale,Apartment,62000,3,2,1600,"Al Mouj, Muscat",4/24/2025
+Fatma,Seaview Heights,"A stunning beach-facing apartment offering panoramic sea views, floor-to-ceiling windows, and modern interiors. This 2-bedroom unit comes with high-end appliances, open-plan living space, and direct beach access. Perfect for seaside living.",Sale,Apartment,55000,2,2,1450,"Qantab, Muscat",1/23/2025
+Hamed,Coral Villas,"Fully furnished 3-bedroom villa featuring an open layout, sleek kitchen, maid’s room, and private patio area. Situated in a quiet, family-friendly community with close proximity to international schools and parks.
+",Rent,House,723,3,3,2000,"Al Hail South, Muscat",9/19/2023
+Aisha,Business Tower,"A state-of-the-art office unit located in the city's primary business district. Features modern fittings, private meeting rooms, high-speed internet wiring, and security access. Ideal for startups or growing companies.
+",Rent,Commercial,1200,0,1,1800,"Ruwi, Muscat",7/16/2022
+Tariq,Desert Rose Heights,"A contemporary 1-bedroom apartment in a newly developed complex, featuring an open kitchen-living layout, a walk-in closet, and balcony. Ideal for first-time buyers or as an investment opportunity.
+",Sale,Apartment,32000,1,1,950,"Al Khoud, Muscat",2/23/2025
+Layla,The Ridge House,"This 4-bedroom family home boasts spacious rooms, modern bathrooms, a large outdoor area, and an indoor majlis. Includes a covered garage and is close to local amenities and public transport.
+",Sale,House,72000,4,3,2300,"Amerat, Muscat",12/24/2024
+Omar,Marina Breeze,"A furnished 2-bedroom apartment overlooking the marina, featuring large windows, an open-plan layout, and elegant furnishings. Amenities include a pool, fitness center, and 24-hour security.
+",Rent,Apartment,650,2,2,1300,"Al Mouj Marina, Muscat",6/20/2022
+Rania,WestPoint Offices,"Flexible open-plan commercial space in a newly developed building. Ideal for co-working, retail, or creative agencies. Includes pantry space, two washrooms, and elevator access.
+",Rent,Commercial,1100,0,2,2200,Ghala. Muscat,4/17/2023
+Majid,Sunset Homes,"An elegant 3-bedroom house with a rooftop terrace, ideal for gatherings and entertaining. Includes an open kitchen with granite countertops, modern fittings, and ample storage space throughout.
+",Sale,House,72000,3,3,2100,"Al Seeb, Muscat",3/22/2025
+Noura,Pearl Apartments,"A cozy and affordable 1-bedroom apartment perfect for young professionals or couples. Comes with a bright living space, open kitchen, modern bathroom, and secure entry.
+",Rent,Apartment,400,1,1,900,"Al Mawaleh, Muscat",1/19/2022
+Khalid,Harmony Residence,"A sleek and contemporary 2-bedroom apartment with bright interiors, built-in wardrobes, and a balcony offering city views. Conveniently located near shopping centers and public transport.
+",Sale,Apartment,55000,2,2,1250,"Madinat Sultan Qaboos, Muscat",2/21/2025
+Dana,Midtown Plaza,"A versatile retail or office unit in a high-footfall location. Features large display windows, modern interiors, and ample parking space for clients.
+",Rent,Commercial,1300,0,1,2000,"Al Ghubra, Muscat",3/18/2022
+Sami,Golden Dunes House,"This grand 5-bedroom villa is surrounded by a private garden and features expansive interiors, a large kitchen with island, multiple living spaces, and private quarters for domestic staff.
+",Sale,House,88000,5,4,2800,"Al Ansab, Muscat",4/22/2025
+Mariam,The Summit Lofts,"A modern studio loft designed with functionality in mind. Offers high ceilings, open-plan layout, and minimalistic interiors perfect for individuals or couples seeking a stylish home.
+",Rent,Apartment,350,1,1,800,"Al Khuwayr North, Muscat",5/20/2025
+Zaid,Crystal Towers,"A 2-bedroom high-rise apartment in a prestigious building with elevator access, basement parking, and 24-hour security. Includes a modern kitchen, large living area, and elegant bathrooms.
+",Sale,Apartment,60000,2,2,1400,"Al Azaiba, Muscat",12/2/2024
+Huda,Calico Oasis Villa,"Eco-conscious 3-bedroom villa fitted with solar panels, sustainable finishes, and water-efficient landscaping. Includes an open kitchen and green-certified appliances.
+",Rent,House,780,3,3,1900,"Bausher, Muscat",12/14/2023
+Waleed,Horizon Towers,"A newly built 3-bedroom apartment within a secure, family-oriented complex featuring a swimming pool, children’s play area, and gym. Well-ventilated with modern interiors.
+",Sale,Apartment,67000,3,2,1550,"Al Khoudh, Muscat",1/20/2025
+Samira,Grand Bay Office,"This high-end corporate office spans 2500 sqft and features multiple meeting rooms, high-speed cabling, private restrooms, and city views through panoramic windows.
+",Rent,Commercial,1450,0,2,2500,"CBD, Muscat",8/22/2022
+Faisal,Serenity Villa,"Located in a peaceful neighborhood, this 4-bedroom villa offers a private yard, spacious interiors, traditional design touches, and ample parking. Ideal for growing families.
+",Sale,House,71000,4,3,2400,"Al Amerat, Muscat",3/23/2025
+Amal,Nova Apartments,"A well-appointed 1-bedroom apartment with built-in appliances, efficient layout, and walking access to shops and cafés. Includes basement parking and 24/7 security.
+",Rent,Apartment,450,1,1,950,"Al Khuwayr, Muscat",6/22/2024
+Bashir,The Capital Suites,"A beautifully designed apartment suite near the government offices. Offers two spacious bedrooms, a large lounge, stylish kitchen, and ample storage space.
+",Sale,Apartment,59000,2,2,1350,"Ministries Area, Muscat",2/12/2025
+Noor,Royal Avenue Homes,"A tastefully designed 4-bedroom home with a sunlit atrium, modern kitchen, and elegant finishes. Includes an outdoor BBQ space and upstairs lounge area.
+",Sale,House,76500,4,3,2250,"Al Hail North, Muscat",4/20/2025
+Rashid,Zenith Offices,"A modern, move-in-ready office space equipped with conference rooms, ergonomic desks, pantry, and private entrance. Excellent for established businesses.
+",Rent,Commercial,1350,0,1,2100,"Ghala Industrial Area, Muscat",3/17/2024
+Hind,Willow Lane Villa,"This spacious 5-bedroom villa is located near a tranquil lagoon and offers a perfect blend of nature and luxury. Features include a private pool, gourmet kitchen, and lush outdoor seating areas.
+
+",Sale,House,89000,5,4,2900,"Qurum, Muscat",3/18/2025
+Hamed,Chang Manor Tower,"A 4-bedroom house in Ghala, Muscat with 4 bathrooms and modern amenities.",Rent,House,765,4,4,1082,"Ghala, Muscat",4/27/2024
+Hamed,Jonathan Pass Suites,"A 5-bedroom apartment in Shatti Al Qurum, Muscat with 4 bathrooms and modern amenities.",Sale,Apartment,64300,5,4,1285,"Shatti Al Qurum, Muscat",3/20/2023
+Salma,Sullivan Tunnel Heights,"A 1-bedroom house in Al Ghubra, Muscat with 1 bathrooms and modern amenities.",Rent,House,575,1,1,2494,"Al Ghubra, Muscat",11/20/2023
+Aisha,Faulkner Knolls Suites,"A 5-bedroom house in Qantab, Muscat with 4 bathrooms and modern amenities.",Rent,House,1434,5,4,2311,"Qantab, Muscat",2/13/2024
+Ahmed,William Haven Suites,"A 5-bedroom apartment in Madinat Qaboos, Muscat with 4 bathrooms and modern amenities.",Rent,Apartment,461,5,4,2875,"Madinat Qaboos, Muscat",9/14/2023
+Noor,Katelyn River Villa,"A 2-bedroom house in Shatti Al Qurum, Muscat with 2 bathrooms and modern amenities.",Sale,House,58330,2,2,2495,"Shatti Al Qurum, Muscat",11/19/2022
+Aisha,Archer Place Residency,"A 5-bedroom apartment in Al Ghubra, Muscat with 4 bathrooms and modern amenities.",Rent,Apartment,452,5,4,1917,"Al Ghubra, Muscat",11/3/2022
+Noor,Kyle Stream Suites,"A 1-bedroom house in Ghala, Muscat with 1 bathrooms and modern amenities.",Rent,House,840,1,1,2121,"Ghala, Muscat",10/3/2022
+Fatma,Rachel Spur Heights,"A 1-bedroom house in Madinat Qaboos, Muscat with 1 bathrooms and modern amenities.",Sale,House,26317,1,1,2221,"Madinat Qaboos, Muscat",11/4/2023
+Yousuf,Kennedy Courts Villa,"A 2-bedroom apartment in Shatti Al Qurum, Muscat with 2 bathrooms and modern amenities.",Sale,Apartment,42030,2,2,1067,"Shatti Al Qurum, Muscat",7/21/2023
+Fatma,Hamilton Ridge Villa,"A 5-bedroom apartment in Ghala, Muscat with 4 bathrooms and modern amenities.",Rent,Apartment,1357,5,4,2399,"Ghala, Muscat",12/29/2023
+Noor,Tammy Neck Residency,"A 4-bedroom house in Al Ghubra, Muscat with 4 bathrooms and modern amenities.",Rent,House,1176,4,4,2008,"Al Ghubra, Muscat",7/18/2024
+Fatma,Grimes Green Heights,"A 2-bedroom house in Al Hail South, Muscat with 2 bathrooms and modern amenities.",Sale,House,51600,2,2,1497,"Al Hail South, Muscat",6/24/2023
+Fatma,Linda Plaza Residency,"A 4-bedroom house in Shatti Al Qurum, Muscat with 4 bathrooms and modern amenities.",Sale,House,85630,4,4,2670,"Shatti Al Qurum, Muscat",1/22/2023
+Salma,Christopher Ville Heights,"A 1-bedroom apartment in Ruwi, Muscat with 1 bathrooms and modern amenities.",Sale,Apartment,34736,1,1,2300,"Ruwi, Muscat",5/11/2024
+Ahmed,Page Tunnel Residency,"A 5-bedroom apartment in Shatti Al Qurum, Muscat with 4 bathrooms and modern amenities.",Rent,Apartment,621,5,4,1044,"Shatti Al Qurum, Muscat",11/12/2024
+Yousuf,Cheryl Views Residency,"A 3-bedroom apartment in Al Hail South, Muscat with 3 bathrooms and modern amenities.",Rent,Apartment,447,3,3,1143,"Al Hail South, Muscat",3/26/2024
+Aisha,Sanchez Islands Suites,"A 5-bedroom apartment in Al Hail South, Muscat with 4 bathrooms and modern amenities.",Sale,Apartment,83123,5,4,1206,"Al Hail South, Muscat",12/2/2022
+Salma,James Port Suites,"A 1-bedroom apartment in Al Ghubra, Muscat with 1 bathrooms and modern amenities.",Rent,Apartment,305,1,1,2615,"Al Ghubra, Muscat",10/2/2024
+Hamed,John Divide Heights,"A 1-bedroom apartment in Ruwi, Muscat with 1 bathrooms and modern amenities.",Rent,Apartment,421,1,1,1965,"Ruwi, Muscat",11/19/2022
+Salma,Davis Island Heights,"A 2-bedroom house in Al Khuwair, Muscat with 2 bathrooms and modern amenities.",Sale,House,28603,2,2,2148,"Al Khuwair, Muscat",5/18/2023
+Hamed,Rodriguez Plaza Heights,"A 2-bedroom house in Seeb, Muscat with 2 bathrooms and modern amenities.",Sale,House,31280,2,2,1491,"Seeb, Muscat",9/30/2023
+Fatma,Mann Plaza Heights,"A 4-bedroom house in Shatti Al Qurum, Muscat with 4 bathrooms and modern amenities.",Sale,House,80924,4,4,2532,"Shatti Al Qurum, Muscat",10/16/2023
+Omar,Olsen Plains Suites,"A 2-bedroom apartment in Ruwi, Muscat with 2 bathrooms and modern amenities.",Rent,Apartment,687,2,2,2305,"Ruwi, Muscat",5/14/2025
+Aisha,Tamara Rapids Suites,"A 2-bedroom apartment in Al Mouj, Muscat with 2 bathrooms and modern amenities.",Sale,Apartment,56988,2,2,1912,"Al Mouj, Muscat",12/23/2023
+Omar,Wallace Ranch Villa,"A 4-bedroom apartment in Seeb, Muscat with 4 bathrooms and modern amenities.",Sale,Apartment,81357,4,4,1667,"Seeb, Muscat",3/10/2023
+Ahmed,Stewart Garden Suites,"A 1-bedroom apartment in Al Khuwair, Muscat with 1 bathrooms and modern amenities.",Sale,Apartment,28230,1,1,1822,"Al Khuwair, Muscat",6/1/2025
+Salma,White View Tower,"A 1-bedroom apartment in Al Hail South, Muscat with 1 bathrooms and modern amenities.",Rent,Apartment,598,1,1,2245,"Al Hail South, Muscat",12/11/2024
+Khalid,Antonio Shoals Heights,"A 1-bedroom apartment in Shatti Al Qurum, Muscat with 1 bathrooms and modern amenities.",Sale,Apartment,21319,1,1,1562,"Shatti Al Qurum, Muscat",1/30/2025
+Hamed,Alvarez Corners Suites,"A 3-bedroom apartment in Al Khuwair, Muscat with 3 bathrooms and modern amenities.",Rent,Apartment,627,3,3,2743,"Al Khuwair, Muscat",7/19/2023
+Aisha,Nancy Camp Tower,"A 5-bedroom house in Al Khuwair, Muscat with 4 bathrooms and modern amenities.",Rent,House,1269,5,4,2863,"Al Khuwair, Muscat",8/14/2023
+Ahmed,Rachael Village Villa,"A 5-bedroom house in Madinat Qaboos, Muscat with 4 bathrooms and modern amenities.",Sale,House,101712,5,4,1365,"Madinat Qaboos, Muscat",8/21/2024
+Noor,Massey Pine Residency,"A 3-bedroom house in Al Ghubra, Muscat with 3 bathrooms and modern amenities.",Sale,House,62013,3,3,1691,"Al Ghubra, Muscat",7/4/2024
+Khalid,Boyd Freeway Villa,"A 2-bedroom house in Al Hail South, Muscat with 2 bathrooms and modern amenities.",Rent,House,897,2,2,1306,"Al Hail South, Muscat",5/7/2024
+Khalid,Patty Radial Residency,"A 4-bedroom apartment in Al Hail South, Muscat with 4 bathrooms and modern amenities.",Rent,Apartment,703,4,4,2496,"Al Hail South, Muscat",1/20/2023
+Aisha,Riley Mission Tower,"A 3-bedroom house in Shatti Al Qurum, Muscat with 3 bathrooms and modern amenities.",Rent,House,724,3,3,1612,"Shatti Al Qurum, Muscat",11/19/2023
+Hamed,Keller Squares Heights,"A 1-bedroom house in Seeb, Muscat with 1 bathrooms and modern amenities.",Sale,House,36184,1,1,1981,"Seeb, Muscat",5/8/2025
+Fatma,Miller Ridge Residency,"A 5-bedroom apartment in Shatti Al Qurum, Muscat with 4 bathrooms and modern amenities.",Rent,Apartment,801,5,4,1769,"Shatti Al Qurum, Muscat",5/10/2023
+Fatma,Tom Roads Tower,"A 1-bedroom apartment in Seeb, Muscat with 1 bathrooms and modern amenities.",Sale,Apartment,39590,1,1,1806,"Seeb, Muscat",6/15/2023
+Layla,Bruce Gardens Residency,"A 2-bedroom house in Al Mouj, Muscat with 2 bathrooms and modern amenities.",Sale,House,51099,2,2,1534,"Al Mouj, Muscat",12/1/2024
+Fatma,Jessica Crescent Residency,"A 5-bedroom apartment in Seeb, Muscat with 4 bathrooms and modern amenities.",Sale,Apartment,77792,5,4,1924,"Seeb, Muscat",9/26/2024
+Yousuf,Nathan Extension Residency,"A 1-bedroom apartment in Al Ghubra, Muscat with 1 bathrooms and modern amenities.",Rent,Apartment,487,1,1,1405,"Al Ghubra, Muscat",2/20/2023
+Layla,Simmons Circle Tower,"A 5-bedroom apartment in Ghala, Muscat with 4 bathrooms and modern amenities.",Rent,Apartment,998,5,4,1831,"Ghala, Muscat",7/21/2023
+Layla,Krista Walk Residency,"A 5-bedroom apartment in Al Ghubra, Muscat with 4 bathrooms and modern amenities.",Sale,Apartment,80636,5,4,2248,"Al Ghubra, Muscat",3/1/2023
+Aisha,Brandon Ports Residency,"A 5-bedroom house in Madinat Qaboos, Muscat with 4 bathrooms and modern amenities.",Sale,House,99659,5,4,2605,"Madinat Qaboos, Muscat",8/18/2024
+Aisha,Anthony Roads Heights,"A 1-bedroom apartment in Al Hail South, Muscat with 1 bathrooms and modern amenities.",Sale,Apartment,22662,1,1,1460,"Al Hail South, Muscat",4/30/2023
+Ahmed,Catherine Ports Suites,"A 4-bedroom apartment in Madinat Qaboos, Muscat with 4 bathrooms and modern amenities.",Sale,Apartment,71017,4,4,2983,"Madinat Qaboos, Muscat",1/18/2024
+Aisha,Peter Land Tower,"A 4-bedroom apartment in Ghala, Muscat with 4 bathrooms and modern amenities.",Sale,Apartment,88983,4,4,2855,"Ghala, Muscat",4/14/2024
+Layla,Benjamin Brooks Residency,"A 1-bedroom apartment in Ghala, Muscat with 1 bathrooms and modern amenities.",Rent,Apartment,598,1,1,2517,"Ghala, Muscat",9/28/2024
+Yousuf,Susan Ferry Villa,"A 3-bedroom house in Madinat Qaboos, Muscat with 3 bathrooms and modern amenities.",Sale,House,69170,3,3,2582,"Madinat Qaboos, Muscat",4/13/2025
+Yousuf,Timothy Stream Tower,"A 3-bedroom house in Al Khuwair, Muscat with 3 bathrooms and modern amenities.",Sale,House,71464,3,3,1113,"Al Khuwair, Muscat",4/14/2024
+Ahmed,Sharon Brooks Residency,"A 3-bedroom apartment in Seeb, Muscat with 3 bathrooms and modern amenities.",Rent,Apartment,720,3,3,1842,"Seeb, Muscat",3/3/2024
+Khalid,Oliver Village Heights,"A 1-bedroom apartment in Al Ghubra, Muscat with 1 bathrooms and modern amenities.",Sale,Apartment,21285,1,1,1066,"Al Ghubra, Muscat",6/30/2023
+Aisha,Jones Cliffs Suites,"A 4-bedroom house in Al Khuwair, Muscat with 4 bathrooms and modern amenities.",Rent,House,1123,4,4,1227,"Al Khuwair, Muscat",6/29/2023
+Salma,Bell Falls Suites,"A 5-bedroom apartment in Al Hail South, Muscat with 4 bathrooms and modern amenities.",Sale,Apartment,75404,5,4,1606,"Al Hail South, Muscat",3/9/2023
+Salma,William Canyon Residency,"A 4-bedroom apartment in Qantab, Muscat with 4 bathrooms and modern amenities.",Sale,Apartment,71274,4,4,1910,"Qantab, Muscat",6/15/2024
+Noor,Holly Lock Villa,"A 3-bedroom house in Ghala, Muscat with 3 bathrooms and modern amenities.",Sale,House,62700,3,3,2845,"Ghala, Muscat",11/11/2023
+Omar,Jorge Street Suites,"A 5-bedroom apartment in Al Hail South, Muscat with 4 bathrooms and modern amenities.",Rent,Apartment,1019,5,4,2430,"Al Hail South, Muscat",1/17/2025
+Ahmed,Massey Port Tower,"A 1-bedroom apartment in Madinat Qaboos, Muscat with 1 bathrooms and modern amenities.",Rent,Apartment,465,1,1,1851,"Madinat Qaboos, Muscat",5/26/2023
+Layla,Heidi Ford Residency,"A 1-bedroom house in Al Ghubra, Muscat with 1 bathrooms and modern amenities.",Sale,House,31441,1,1,2017,"Al Ghubra, Muscat",3/27/2025
+Fatma,Kristina Estate Heights,"A 1-bedroom house in Al Mouj, Muscat with 1 bathrooms and modern amenities.",Sale,House,28356,1,1,1707,"Al Mouj, Muscat",2/16/2023
+Layla,Matthew Glen Residency,"A 2-bedroom apartment in Shatti Al Qurum, Muscat with 2 bathrooms and modern amenities.",Sale,Apartment,43189,2,2,1006,"Shatti Al Qurum, Muscat",8/19/2024
+Ahmed,Candice Mills Villa,"A 2-bedroom apartment in Al Ghubra, Muscat with 2 bathrooms and modern amenities.",Rent,Apartment,540,2,2,1929,"Al Ghubra, Muscat",2/2/2025
+Layla,Alexander Springs Villa,"A 4-bedroom house in Al Hail South, Muscat with 4 bathrooms and modern amenities.",Sale,House,87799,4,4,2967,"Al Hail South, Muscat",9/3/2023
+Yousuf,Mccullough Well Villa,"A 5-bedroom apartment in Madinat Qaboos, Muscat with 4 bathrooms and modern amenities.",Rent,Apartment,760,5,4,2189,"Madinat Qaboos, Muscat",10/21/2022
+Ahmed,Banks Loaf Villa,"A 2-bedroom apartment in Al Ghubra, Muscat with 2 bathrooms and modern amenities.",Sale,Apartment,53074,2,2,2545,"Al Ghubra, Muscat",8/6/2023
+Khalid,Hernandez Spurs Tower,"A 1-bedroom house in Al Mouj, Muscat with 1 bathrooms and modern amenities.",Sale,House,23574,1,1,2438,"Al Mouj, Muscat",8/13/2024
+Layla,Stephen Common Suites,"A 3-bedroom house in Shatti Al Qurum, Muscat with 3 bathrooms and modern amenities.",Sale,House,60863,3,3,2304,"Shatti Al Qurum, Muscat",3/17/2024
+Layla,Stevenson Plains Heights,"A 4-bedroom house in Al Ghubra, Muscat with 4 bathrooms and modern amenities.",Rent,House,927,4,4,1017,"Al Ghubra, Muscat",11/19/2024
+Yousuf,Taylor Track Tower,"A 2-bedroom apartment in Shatti Al Qurum, Muscat with 2 bathrooms and modern amenities.",Rent,Apartment,581,2,2,2631,"Shatti Al Qurum, Muscat",10/4/2023
+Khalid,Bell Heights Villa,"A 4-bedroom apartment in Seeb, Muscat with 4 bathrooms and modern amenities.",Rent,Apartment,762,4,4,1884,"Seeb, Muscat",10/30/2022
+Aisha,Garza Roads Suites,"A 1-bedroom house in Qantab, Muscat with 1 bathrooms and modern amenities.",Rent,House,773,1,1,1989,"Qantab, Muscat",6/14/2025
+Yousuf,Jennifer Loaf Tower,"A 2-bedroom apartment in Al Hail South, Muscat with 2 bathrooms and modern amenities.",Rent,Apartment,512,2,2,1611,"Al Hail South, Muscat",10/1/2023
+Ahmed,Poole Common Residency,"A 4-bedroom apartment in Madinat Qaboos, Muscat with 4 bathrooms and modern amenities.",Rent,Apartment,756,4,4,2556,"Madinat Qaboos, Muscat",9/7/2023

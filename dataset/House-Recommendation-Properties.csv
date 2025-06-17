@@ -1,0 +1,50 @@
+REALTOR,PROPERTYNAME,AVAILABILITY,TYPE,DESCRIPTION,PRICE,BEDROOMS,BATHROOMS,DIMENSIONS,ADDRESS,IMAGE
+Ahmed,Palm Heights,Sale,Apartment,"A stylish and modern 2-bedroom apartment located in the heart of the city. This property features a spacious living area, open-plan kitchen with contemporary finishes, two full bathrooms, and a private balcony with skyline views. Ideal for professionals or small families.",48000,2,2,1200,"Al Khuwair, Muscat",https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Salma,Sapphire Villa,Rent,House,"A luxurious 4-bedroom villa with a landscaped garden, large terrace, and covered parking. Includes a spacious living room, formal dining area, modern kitchen with island, and ensuite master bedroom. Perfect for families seeking comfort and space in a prestigious neighborhood.",900,4,3,2500,"Shatti Al Qurum, Muscat",https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Yousuf,Oasis Residency,Sale,Apartment,"A premium 3-bedroom apartment within a gated community offering amenities such as a swimming pool, gym, and concierge services. Features a bright interior, fully fitted kitchen, two bathrooms, and a secure underground parking bay. Walking distance to shops and the beach.",62000,3,2,1600,"Al Mouj, Muscat",https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Fatma,Seaview Heights,Sale,Apartment,"A stunning beach-facing apartment offering panoramic sea views, floor-to-ceiling windows, and modern interiors. This 2-bedroom unit comes with high-end appliances, open-plan living space, and direct beach access. Perfect for seaside living.",75000,2,2,1450,"Qantab, Muscat",https://images.pexels.com/photos/1918291/pexels-photo-1918291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Hamed,Coral Villas,Rent,House,"Fully furnished 3-bedroom villa featuring an open layout, sleek kitchen, maid’s room, and private patio area. Situated in a quiet, family-friendly community with close proximity to international schools and parks.
+",850,3,3,2000,"Al Hail South, Muscat",https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Aisha,Business Tower,Rent,Commercial,"A state-of-the-art office unit located in the city's primary business district. Features modern fittings, private meeting rooms, high-speed internet wiring, and security access. Ideal for startups or growing companies.
+",1200,0,1,1800,"Ruwi, Muscat",https://images.pexels.com/photos/380768/pexels-photo-380768.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Tariq,Desert Rose Heights,Sale,Apartment,"A contemporary 1-bedroom apartment in a newly developed complex, featuring an open kitchen-living layout, a walk-in closet, and balcony. Ideal for first-time buyers or as an investment opportunity.
+",39000,1,1,950,"Al Khoud, Muscat",https://images.pexels.com/photos/1571468/pexels-photo-1571468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Layla,The Ridge House,Sale,House,"This 4-bedroom family home boasts spacious rooms, modern bathrooms, a large outdoor area, and an indoor majlis. Includes a covered garage and is close to local amenities and public transport.
+",68000,4,3,2300,"Amerat, Muscat",https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Omar,Marina Breeze,Rent,Apartment,"A furnished 2-bedroom apartment overlooking the marina, featuring large windows, an open-plan layout, and elegant furnishings. Amenities include a pool, fitness center, and 24-hour security.
+",650,2,2,1300,"Al Mouj Marina, Muscat",https://images.pexels.com/photos/275484/pexels-photo-275484.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Rania,WestPoint Offices,Rent,Commercial,"Flexible open-plan commercial space in a newly developed building. Ideal for co-working, retail, or creative agencies. Includes pantry space, two washrooms, and elevator access.
+",1100,0,2,2200,Ghala. Muscat,https://images.pexels.com/photos/380769/pexels-photo-380769.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Majid,Sunset Homes,Sale,House,"An elegant 3-bedroom house with a rooftop terrace, ideal for gatherings and entertaining. Includes an open kitchen with granite countertops, modern fittings, and ample storage space throughout.
+",72000,3,3,2100,"Al Seeb, Muscat",https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Noura,Pearl Apartments,Rent,Apartment,"A cozy and affordable 1-bedroom apartment perfect for young professionals or couples. Comes with a bright living space, open kitchen, modern bathroom, and secure entry.
+",400,1,1,900,"Al Mawaleh, Muscat",https://images.pexels.com/photos/1428348/pexels-photo-1428348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Khalid,Harmony Residence,Sale,Apartment,"A sleek and contemporary 2-bedroom apartment with bright interiors, built-in wardrobes, and a balcony offering city views. Conveniently located near shopping centers and public transport.
+",55000,2,2,1250,"Madinat Sultan Qaboos, Muscat",https://images.pexels.com/photos/1743227/pexels-photo-1743227.jpeg?auto=compress&cs=tinysrgb&w=600
+Dana,Midtown Plaza,Rent,Commercial,"A versatile retail or office unit in a high-footfall location. Features large display windows, modern interiors, and ample parking space for clients.
+",1300,0,1,2000,"Al Ghubra, Muscat",https://images.pexels.com/photos/37347/office-sitting-room-executive-sitting.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Sami,Golden Dunes House,Sale,House,"This grand 5-bedroom villa is surrounded by a private garden and features expansive interiors, a large kitchen with island, multiple living spaces, and private quarters for domestic staff.
+",88000,5,4,2800,"Al Ansab, Muscat",https://images.pexels.com/photos/209315/pexels-photo-209315.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Mariam,The Summit Lofts,Rent,Apartment,"A modern studio loft designed with functionality in mind. Offers high ceilings, open-plan layout, and minimalistic interiors perfect for individuals or couples seeking a stylish home.
+",350,1,1,800,"Al Khuwayr North, Muscat",https://images.pexels.com/photos/1571453/pexels-photo-1571453.jpeg?auto=compress&cs=tinysrgb&w=600
+Zaid,Crystal Towers,Sale,Apartment,"A 2-bedroom high-rise apartment in a prestigious building with elevator access, basement parking, and 24-hour security. Includes a modern kitchen, large living area, and elegant bathrooms.
+",60000,2,2,1400,"Al Azaiba, Muscat",https://images.pexels.com/photos/1776574/pexels-photo-1776574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Huda,Calico Oasis Villa,Rent,House,"Eco-conscious 3-bedroom villa fitted with solar panels, sustainable finishes, and water-efficient landscaping. Includes an open kitchen and green-certified appliances.
+",780,3,3,1900,"Bausher, Muscat",https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Waleed,Horizon Towers,Sale,Apartment,"A newly built 3-bedroom apartment within a secure, family-oriented complex featuring a swimming pool, children’s play area, and gym. Well-ventilated with modern interiors.
+",67000,3,2,1550,"Al Khoudh, Muscat",https://images.pexels.com/photos/1668860/pexels-photo-1668860.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Samira,Grand Bay Office,Rent,Commercial,"This high-end corporate office spans 2500 sqft and features multiple meeting rooms, high-speed cabling, private restrooms, and city views through panoramic windows.
+",1450,0,2,2500,"CBD, Muscat",https://images.pexels.com/photos/263209/pexels-photo-263209.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Faisal,Serenity Villa,Sale,House,"Located in a peaceful neighborhood, this 4-bedroom villa offers a private yard, spacious interiors, traditional design touches, and ample parking. Ideal for growing families.
+",71000,4,3,2400,"Al Amerat, Muscat",https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Amal,Nova Apartments,Rent,Apartment,"A well-appointed 1-bedroom apartment with built-in appliances, efficient layout, and walking access to shops and cafés. Includes basement parking and 24/7 security.
+",450,1,1,950,"Al Khuwayr, Muscat",https://images.pexels.com/photos/1571459/pexels-photo-1571459.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Bashir,The Capital Suites,Sale,Apartment,"A beautifully designed apartment suite near the government offices. Offers two spacious bedrooms, a large lounge, stylish kitchen, and ample storage space.
+",59000,2,2,1350,"Ministries Area, Muscat",https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Noor,Royal Avenue Homes,Sale,House,"A tastefully designed 4-bedroom home with a sunlit atrium, modern kitchen, and elegant finishes. Includes an outdoor BBQ space and upstairs lounge area.
+",76500,4,3,2250,"Al Hail North, Muscat",https://images.pexels.com/photos/164558/pexels-photo-164558.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Rashid,Zenith Offices,Rent,Commercial,"A modern, move-in-ready office space equipped with conference rooms, ergonomic desks, pantry, and private entrance. Excellent for established businesses.
+",1350,0,1,2100,"Ghala Industrial Area, Muscat",https://images.pexels.com/photos/159806/meeting-modern-room-conference-159806.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Hind,Willow Lane Villa,Sale,House,"This spacious 5-bedroom villa is located near a tranquil lagoon and offers a perfect blend of nature and luxury. Features include a private pool, gourmet kitchen, and lush outdoor seating areas.
+
+",89000,5,4,2900,"Qurum, Muscat",https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
